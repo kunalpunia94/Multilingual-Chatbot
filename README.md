@@ -21,8 +21,8 @@
 
 | Link Type | URL |
 |-----------|-----|
-| **GitHub Repository** | [INSERT_YOUR_GITHUB_REPO_LINK_HERE] |
-| **Live Streamlit App** | [INSERT_YOUR_DEPLOYED_STREAMLIT_URL_HERE] |
+| **GitHub Repository** | https://github.com/kunalpunia94/Multilingual-Chatbot |
+| **Live Streamlit App** | https://multilingualchatbotgroq.streamlit.app/ |
 
 ---
 
