@@ -1,9 +1,6 @@
 # 🤖 Multilingual GemmaBot Chat
 
-🔗 **Live App:** [INSERT_YOUR_DEPLOYED_STREAMLIT_URL_HERE]
-
-📸 **Application Screenshot**  
-![App Screenshot](INSERT_SCREENSHOT_PATH_OR_URL_HERE)
+🔗 **Live App:** https://multilingualchatbotgroq.streamlit.app/
 
 ---
 
